@@ -1,7 +1,7 @@
-# Project Summary
+# Project One Summary
 For this project, I wanted to see multiple visualizations about how two-high safety usage has affected how NFL teams draft in the first two rounds. 
 
-## Project Introduction
+## Project One Introduction
 This project resonates with me because, as a Detroit Lions fan, I’ve had the pleasure of watching Kerby Joseph and Brian Branch develop into the team’s starting safeties over the past few years. It wasn’t until Joseph began dealing with injuries that I realized just how important competent safety play is to an NFL defense. With both Joseph and Branch beginning the 2026–27 season on the Physically Unable to Perform list, I began to wonder how much their absence could affect the Lions’ ability to defend opposing quarterbacks, especially the more mobile ones. 
 
 My experience watching the Lions also made me more interested in how NFL teams use two-high safety shells to defend some of the league’s best passing offenses. After doing some research, I became interested in how offenses can attack these defensive structures, particularly through an efficient running game and passing over the middle of the field. This led me to wonder how these defensive strategies might affect the way teams evaluate quarterbacks entering the NFL. More specifically, if defenses continue to rely on two-high safety structures to limit explosive passing plays, how valuable is a quarterback’s ability to create yards with his legs? I want to explore how much scrambling ability is valued when NFL teams evaluate young quarterbacks and whether the ability to threaten a defense as a runner can provide an advantage against modern defensive schemes.
