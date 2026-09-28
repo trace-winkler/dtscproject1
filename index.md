@@ -31,5 +31,6 @@ Despite that, it's clear to me that with their most valuable picks, NFL teams se
 
 When it came to classifying NFL quarterbacks as "pocket passers" or "scramblers," I would look at their NFL statistics, and if they had a significant amount of rushing yards throughout their career, I'd look at them as more of a scrambler. While I understand that pocket passing quarterbacks can be flushed out of the pocket and forced to scramble, it seemed to me that pocket passing quarterbacks tend to live in the pocket and die in the pocket. On the other side of the coin, scrambling quarterbacks to me are much more comfortable with rolling out of the pocket in order to gain yards, such as Lamar Jackson, Josh Allen, and Patrick Mahomes. 
 
+### Return to the [Project Directory](https://trace-winkler.github.io/project-directory/)
 ### Return to the [Homepage](https://trace-winkler.github.io/data-science-portfolio/)
 ### Check out my [Blog](https://trace-winkler.github.io/blog/)
